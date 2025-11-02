@@ -14,7 +14,7 @@ Fully compatible with Steam and VAC.
 - 🗺️ **Dynamic Icons** – large map icon and small CT/T icon with hover tooltips.  
 - ⚙️ **Automatic Config Creation** – creates `gamestate_integration_cs2_rpc.cfg` automatically.  
 - 💬 **System Tray Integration** – runs quietly in the background with notifications and menu options.  
-- 🌍 **Languages** – English 🇬🇧 • Polish 🇵🇱 • Russian 🇷🇺  
+- 🌍 **Languages** – English 🇬🇧 
 - 🔒 **Completely Safe** – uses Valve’s official *Game State Integration* (no memory reading, no injection).  
 
 ---
