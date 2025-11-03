@@ -4,6 +4,7 @@ A small and safe Discord Rich Presence app for **Counter-Strike 2**, created by 
 It shows your current map, mode, side (CT/T), and live score directly on your Discord profile — automatically and in real time.
 
 🔗 GitHub: [https://github.com/Chm1eluuu/CS2-Discord-RPC](https://github.com/Chm1eluuu/CS2-Discord-RPC)
+🔗 Discord: [https://discord.gg/aNRqNYNBSJ](https://discord.gg/aNRqNYNBSJ)
 
 ---
 
