@@ -1,42 +1,61 @@
-# 🎮 CS2 Discord RPC by Chmieluuu
+# CS2 Discord RPC
 
-A lightweight and safe **Discord Rich Presence** app for **Counter-Strike 2**.  
-Displays your current map, game mode, side (CT/T), and score directly on Discord — automatically and in real time.  
-Fully compatible with Steam and VAC.  
+A small and safe Discord Rich Presence app for **Counter-Strike 2**, created by [Chmieluuu](https://github.com/Chm1eluuu).  
+It shows your current map, mode, side (CT/T), and live score directly on your Discord profile — automatically and in real time.
 
-🔗 **GitHub:** [https://github.com/Chm1eluuu/CS2-Discord-RPC/](https://github.com/Chm1eluuu/CS2-Discord-RPC/)
-
----
-
-## ✨ Features
-
-- 🟢 **Live Discord Status** – shows map, mode, side (CT/T), and score instantly.  
-- 🗺️ **Dynamic Icons** – large map icon and small CT/T icon with hover tooltips.  
-- ⚙️ **Automatic Config Creation** – creates `gamestate_integration_cs2_rpc.cfg` automatically.  
-- 💬 **System Tray Integration** – runs quietly in the background with notifications and menu options.  
-- 🌍 **Languages** – English 🇬🇧 
-- 🔒 **Completely Safe** – uses Valve’s official *Game State Integration* (no memory reading, no injection).  
+🔗 GitHub: [https://github.com/Chm1eluuu/CS2-Discord-RPC](https://github.com/Chm1eluuu/CS2-Discord-RPC)
 
 ---
 
-## 🚀 How to Run
+## Features
 
-1. Download the latest release from:  
-   👉 [**Releases Page**](https://github.com/Chm1eluuu/CS2-Discord-RPC/releases)
+- **Live Discord status** – updates automatically while you play CS2  
+- **Map and team icons** – large map image and small CT/T logo  
+- **Auto config creation** – generates `gamestate_integration_cs2_rpc.cfg` automatically  
+- **System tray** – runs in the background, with Console and Quit options  
+- **Autostart support** – can launch automatically with CS2 (can be disabled)  
+- **VAC/Steam safe** – uses official Game State Integration, no memory reading or injection  
 
-2. Unzip the downloaded file (if zipped).
+---
 
-3. Launch **`CS2DiscordRPC.exe`** — you’ll see a short notification that it’s running.  
-   - The app minimizes to the **system tray** (bottom-right corner).  
-   - Right-click the tray icon to open the menu (**Console / Quit**).
+## How to Use
 
-4. Start **Discord** (if not already open).
+1. Download the latest version from [Releases](https://github.com/Chm1eluuu/CS2-Discord-RPC/releases)  
+2. Unzip the file (if zipped)  
+3. Run `CS2DiscordRPC.exe`  
+   - The program will minimize to the system tray  
+   - Right-click the tray icon to open the console or quit  
+4. Open **Discord**  
+5. Start **Counter-Strike 2**  
+6. Your Discord will automatically show:
+   - Current map  
+   - Team side (CT/T)  
+   - Game mode (Competitive, Wingman, etc.)  
+   - Live score  
 
-5. Launch **Counter-Strike 2** — your Discord profile will automatically display:
-   - Current **map**
-   - Current **team side (CT/T)**
-   - **Game mode** (Competitive, Wingman, etc.)
-   - **Live score**
+That’s all — just launch CS2 and the RPC updates automatically.
 
-That’s it — just play, and your Discord Rich Presence updates automatically. 🕹️  
+---
 
+## Examples
+
+| In Game | On Discord |
+|----------|-------------|
+| ![Example CS2](assets/example_ingame.png) | ![Example Discord](assets/example_rpc.png) |
+
+*(You can replace the screenshots with your own.)*
+
+---
+
+## Safety
+
+The app doesn’t touch game memory or edit any CS2 files.  
+It only uses Valve’s official **Game State Integration** system.  
+Safe for **Steam** and **VAC**.
+
+---
+
+## Author
+
+Made by **[Chmieluuu](https://github.com/Chm1eluuu)**  
+Just clean and simple Discord integration for CS2.
