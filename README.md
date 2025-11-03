@@ -43,9 +43,9 @@ That’s all — just launch CS2 and the RPC updates automatically.
 |----------|-------------|
 | ![Example CS2](assets/example_ingame.png) | ![Example Discord](assets/example_rpc.png) | 
 
-| Program |
+## Program
 
-| ![Example Program](assets/example_program.png)  |
+ ![Example Program](assets/example_program.png)  
 
 
 
