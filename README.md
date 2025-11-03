@@ -39,11 +39,11 @@ That’s all — just launch CS2 and the RPC updates automatically.
 
 ## Examples
 
-| In Game | On Discord |
-|----------|-------------|
-| ![Example CS2](assets/example_ingame.png) | ![Example Discord](assets/example_rpc.png) |
+| In Game | On Discord | Program |
+|----------|-------------|-------------|
+| ![Example CS2](assets/example_ingame.png) | ![Example Discord](assets/example_rpc.png) | | ![Example PRgoram](assets/example_program.png) 
 
-*(You can replace the screenshots with your own.)*
+
 
 ---
 
